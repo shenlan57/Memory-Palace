@@ -1,0 +1,7 @@
+{
+  "name": "MindPalace AI - 记忆宫殿智能辅助",
+  "description": "通过AI技术将枯燥的背诵内容转化为生动的记忆宫殿、口诀或生活场景关联，助你轻松掌握任何知识点。支持拍照识图与文本录入。",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
